@@ -1,2 +1,2 @@
-# spiteful-amusement-9850
-Crime Information Management System
+# Crime-Information-Management-System
+This project is developed by Sanjiv Kumar Mahto.
